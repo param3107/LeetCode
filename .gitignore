@@ -1,5 +1,5 @@
-basicTest.cpp
-basicTest.exe
+.vscode/
+*.exe
+*.pdb
 test.cpp
-test.exe
-vc140.pdb
+basicTest.cpp
